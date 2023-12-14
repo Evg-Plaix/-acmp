@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задачи из acmp", "Задачи из acmp\Задачи из acmp.vcxproj", "{851102E5-1C11-4F65-A4E9-ED4088EF7585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Debug|x64.ActiveCfg = Debug|x64
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Debug|x64.Build.0 = Debug|x64
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Debug|x86.ActiveCfg = Debug|Win32
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Debug|x86.Build.0 = Debug|Win32
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Release|x64.ActiveCfg = Release|x64
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Release|x64.Build.0 = Release|x64
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Release|x86.ActiveCfg = Release|Win32
+		{851102E5-1C11-4F65-A4E9-ED4088EF7585}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C73A6FF-7ED6-4DD1-B178-7512FFD3587C}
+	EndGlobalSection
+EndGlobal

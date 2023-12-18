@@ -26,6 +26,5 @@ int main() {
     cout << o;
     //rjvtyn
     cout << o;
-    // Новый комент
     return 0;
 }

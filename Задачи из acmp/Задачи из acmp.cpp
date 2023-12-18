@@ -25,6 +25,5 @@ int main() {
     cout << fixed << setprecision(11);
     cout << o;
     //rjvtyn
-    cout << o;
     return 0;
 }

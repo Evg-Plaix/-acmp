@@ -24,6 +24,5 @@ int main() {
     o = sqrt (o / (n - 1));
     cout << fixed << setprecision(11);
     cout << o;
-    //rjvtyn
     return 0;
 }
